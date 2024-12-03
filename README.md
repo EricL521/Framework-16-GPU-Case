@@ -7,6 +7,9 @@ A model of a case for the Framework 16 GPU or Expansion Bay Shell when detached 
 - This is nowhere close to perfect
 - I have now adjusted the models, however, in my latest print, I had to carve some material away to get it to fit
   - So, it probably works, but might have to make some small changes
+
+<span />
+
 - Original Onshape model can be found at:
   
   ```
